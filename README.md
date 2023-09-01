@@ -1,1 +1,1 @@
-# SDL2GeometricPrimitives
+Extremely simple SDL2 project showing triangle, circle and rectangle. The project is ready to build, to run build, either put both SDL2.dll and SDL2_ttf.dll near SDL2GeometricPrimitives.exe, or add pathes to these libraries to the $PATH variable.
